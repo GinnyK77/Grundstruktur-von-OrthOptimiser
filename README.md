@@ -85,6 +85,8 @@ python3 main.py [OPTIONEN]
 
 ### Wichtigste Optionen (CLI):
 
+[-> Demo-Video (MKV, ~18 MB)](docs/2025-05-22_14-51-03.mkv)
+
 Solverwahl:
 ```bash
 --solver {augmented_lagrangian, pso, pso_gradient, gekko, scipy}
